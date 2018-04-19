@@ -1,2 +1,1 @@
-# projects_security
-Computer and Information Systems Security related Projects
+# Computer and Information Systems Security related Projects
