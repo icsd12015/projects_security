@@ -1,0 +1,2 @@
+# Review of “IoT security A survey”
+In this assigment we reviewed and made a presentation of the article with title “Internet of things Security: A Survey" published on year 2017, which consists a study that focuses on the state-of-the-art IoT security threats and vulnerabilities by conducting an extensive survey of existing works in the area of IoT security. Presents the taxonomy of the security threats of the time in the contexts of application, architecture, and communication.
